@@ -1,2 +1,2 @@
 # ai-experiments
-Latest AI Experimetns
+Latest AI Experiments
